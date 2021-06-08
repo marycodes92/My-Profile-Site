@@ -3,6 +3,11 @@
 
 p {
     margin-bottom: 1.25rem;
+    color: hsl(210, 50%, 4%);
+}
+
+h6 {
+    margin-bottom: 1.25rem;
     color: hsl(210, 22%, 49%);
 }
 
